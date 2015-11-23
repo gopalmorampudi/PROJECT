@@ -28,7 +28,7 @@
         <a href="./index2.html"><b>Admin</b>Login</a>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
-        <p class="login-box-msg">Sign in to start your session</p>
+        <p class="login-box-msg"Please Sign in to start your session</p>
         <form action="login.php" method="post">
           <div class="form-group has-feedback">
             <input type="text" name="username"class="form-control" placeholder="username" required />
